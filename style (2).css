@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+
+}
+
+#cadastro{
+ display: flex;
+ justify-content: space-between;
+ flex-direction: column;  
+ }
